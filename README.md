@@ -34,7 +34,7 @@
 
 [website]:rhythmmunshi.xyz
 [twitter]: https://twitter.com/MunshiRhythm
-[youtube]: https://youtube.com/ProgrammerRhythm
-[instagram]: https://instagram.com/Rhythmmunshi
-[linkedin]: https://linkedin.com/in/rhythmmunshi
-[webdevplaylist]: https://instagram.com/Rhythmmunshi
+[youtube]: https://www.youtube.com/channel/UCENuEtOzhbL_qTyD2mHK_ZA
+[instagram]: https://www.instagram.com/rhythm_munshi_/
+[linkedin]: https://www.linkedin.com/in/rhythm-munshi-913308201/
+[webdevplaylist]: https://www.instagram.com/rhythm_munshi_/
