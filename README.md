@@ -1,4 +1,3 @@
-# ProgrammerRhythm
 ### Hi there, I'm Rhythm Munshi 👋
 
 ## I'm a Programmer, Student And Learner!!
