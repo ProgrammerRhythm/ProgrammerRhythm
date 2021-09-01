@@ -5,7 +5,7 @@
 - 🔭 I just launched my Portfolio:
 - 🌱 I’m currently learning Full stack Web development
 - 👯 I’m looking to collaborate with other Programmers and Fool People🤣
-- 🥅 2020 Goals: Compleate Full stack Web development
+- 🥅 2021 Goals: Compleate Full stack Web development
 - ⚡ Fun fact: I can Complete a project with in One day!
 
 ### Connect with me:
